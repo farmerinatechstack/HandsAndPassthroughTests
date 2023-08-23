@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MyAssets/PassthroughDemoScene.unity
-    guid: 59d205f3a7b1c304c96d08151c68a922
+    path: Assets/MyAssets/HandsAndPassthroughDemoScene.unity
+    guid: f9e89ca8a14a08f4c9720c8b4e6841ab
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 0cfb25795b5759846863c56d8e7a0c44,
       type: 2}

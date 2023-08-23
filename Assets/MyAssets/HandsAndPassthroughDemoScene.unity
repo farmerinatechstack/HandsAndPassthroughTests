@@ -8738,8 +8738,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1011304081}
   m_HandleRect: {fileID: 1282540633}
   m_Direction: 2
-  m_Value: 0.9999998
-  m_Size: 0.3590604
+  m_Value: 0.9999997
+  m_Size: 0.35906038
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -11424,7 +11424,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1434975002}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.158}
+  m_LocalPosition: {x: 0, y: 0, z: 0.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -12344,6 +12344,16 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 305436337226433489, guid: 5eccbf4be2c00e94689ee8062e4e7276,
+        type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 121217480}
+    - target: {fileID: 305436337226433489, guid: 5eccbf4be2c00e94689ee8062e4e7276,
+        type: 3}
+      propertyPath: m_RequestedTrackingOriginMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 865075385244835223, guid: 5eccbf4be2c00e94689ee8062e4e7276,
         type: 3}
       propertyPath: m_Name
@@ -14164,7 +14174,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1921583407}
   m_HandleRect: {fileID: 458743357}
   m_Direction: 2
-  m_Value: 0.99999946
+  m_Value: 0.9999984
   m_Size: 0.65243894
   m_NumberOfSteps: 0
   m_OnValueChanged:

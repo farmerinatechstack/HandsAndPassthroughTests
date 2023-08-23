@@ -3,9 +3,14 @@
 Goal: create a minimal project which works with AR Foundation, Meta Quest Support, XRI, and XR Hands via OpenXR.
 
 General Notes
-- Custom work is in Assets/MyAssets. There are two scenes which copy from Unity templates: HandsDemoScene and PassthroughDemoScene.
+- I don't plan to maintain this repo at all, but feel free to use it as you wish. I just wanted to get a basic sample working and I saw others post the same, so I created a quick repo with my configurations.
+  - Don't count this as "development ready" or "productionized." I just merged packages and settings together into a usable starting point.
+- Custom work is in Assets/MyAssets. There are three scenes which copy from Unity templates, but HandsAndPassthroughDemoScene is the most important. That scene shows hands with passthrough.
+  - HandsDemoScene was a scene for making sure my hands were working.
+  - PassthroughDemoScene was a scene I used for testing passthrough (and also technically does support some hand tracking).
 
 Status Updates
+- 8/23/2023 #3: HandsAndPassthroughDemoScene has a rough sample of hands working with passthrough.
 - 8/23/2023 #2: updated URP settings so that PassthroughDemoScene now works when built to headset. Note: there are errors on displaying hands, interacting with objects, etc but I'm disregarding that for now. The goal is just to get Passthrough and Hands working.
 - 8/23/2023 #1
   - HandsDemoScene works when tested in-editor (has not been tested with a build).

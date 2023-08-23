@@ -6,4 +6,4 @@ General Notes
 - Custom work is in Assets/MyAssets. There are two scenes which copy from Unity templates: HandsDemoScene and PassthroughDemoScene.
 
 Status Updates
-- 8/23/2023: HandsDemoScene works when tested in-editor (has not been tested with a build). However, basic passthrough does not even work in PassthroughDemoScene (even without hands). Some component of passthrough configuration is probably incorrect.
+- 8/23/2023: HandsDemoScene works when tested in-editor (has not been tested with a build). However, basic passthrough does not even work in PassthroughDemoScene (tested on a build even without hands). Some component of passthrough configuration is probably incorrect.

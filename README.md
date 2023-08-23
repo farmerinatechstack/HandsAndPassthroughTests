@@ -8,6 +8,7 @@ General Notes
 - Custom work is in Assets/MyAssets. There are three scenes which copy from Unity templates, but HandsAndPassthroughDemoScene is the most important. That scene shows controllers or hands with passthrough.
   - HandsDemoScene was a scene I used to test XR Hands.
   - PassthroughDemoScene was a scene I used for testing passthrough (and also technically does support some hand tracking).
+- If you're curious about exploring these packages or prototyping XR experiences together too, you can message me on Discord at farmerinatechstack or on LinkedIn (Hassan Karaouni).
 
 Status Updates
 - 8/23/2023 #3: HandsAndPassthroughDemoScene has a rough sample of hands working with passthrough.

@@ -417,7 +417,6 @@ GameObject:
   - component: {fileID: 121217480}
   - component: {fileID: 121217479}
   - component: {fileID: 121217478}
-  - component: {fileID: 121217477}
   - component: {fileID: 121217476}
   - component: {fileID: 121217475}
   m_Layer: 0
@@ -596,20 +595,6 @@ MonoBehaviour:
     m_SingletonActionBindings: []
     m_Flags: 0
   m_HasMigratedActions: 1
---- !u!114 &121217477
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 121217473}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 816b289ef451e094f9ae174fb4cf8db0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_UseCustomMaterial: 0
-  m_CustomMaterial: {fileID: 0}
 --- !u!114 &121217478
 MonoBehaviour:
   m_ObjectHideFlags: 0
